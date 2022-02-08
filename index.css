@@ -1,0 +1,17 @@
+div{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.login{
+text-transform: capitalize;
+}
+.first{
+    text-transform: capitalize;
+    
+}
+.last{
+    text-transform: capitalize;
+}
+.name{
+    text-align: center;
+}
